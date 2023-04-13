@@ -97,3 +97,10 @@ button {
 .show-text {
   display: block;
 }
+
+@media screen and (min-width: 767px) {
+  main {
+    width: 600px;
+    margin: auto;
+  }
+}
